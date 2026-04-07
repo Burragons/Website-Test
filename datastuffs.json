@@ -1,3 +1,10 @@
 {
-  "Username": "ID",
+  "name": "Alice",
+  "age": 30,
+  "skills": [
+    "Python",
+    "JSON"
+  ],
+  "active": true,
+  "newKey": 123
 }
